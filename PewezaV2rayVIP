@@ -1,7 +1,7 @@
-//profile-title: base64:4pqh77iPUGV3ZXphLVZJUC1WMlJheQ
+//profile-title: base64:UGV3ZXphLVZJUC1WMlJheQ==
 //profile-update-interval: 1
-//subscription-userinfo: upload=9999999999999; download=9999999999999; total=9999999999999; expire=9999999999999
-#Telegram: https://t.me/PewezaVPN
+//subscription-userinfo: upload=0; download=0; total=9999999999999; expire=9999999999999
+#Telegram-URL: https://t.me/PewezaVPN
 
 vless://2c2ce61d-92de-4274-9b62-d8c66ac4ba65@91.149.253.167:15970?security=none&encryption=none&headerType=none&type=tcp#PEWEZA-VLESS-1
 vless://451e4cd0-a3a6-43d8-b4cf-1e7f9b41aed9@91.149.253.151:15970?security=none&encryption=none&headerType=none&type=tcp#PEWEZA-VLESS-2
