@@ -1,6 +1,6 @@
 //profile-title: base64:UGV3ZXphLVZJUC1WMlJheQ==
 //profile-update-interval: 1
-//subscription-userinfo: upload=5368709120; download=117037858816; total=999999999999; expire=9999999999
+//subscription-userinfo: upload=999999999999; download=999999999999; total=999999999999; expire=9999999999
 #profile-web-page-url: @PewezaVPN
 
 vless://2c2ce61d-92de-4274-9b62-d8c66ac4ba65@91.149.253.167:15970?security=none&encryption=none&headerType=none&type=tcp#PEWEZA-VLESS-1
